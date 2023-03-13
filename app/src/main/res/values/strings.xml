@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Duan1</string>
+    <String name="title_list_table">Danh sách bàn</String>
+    <String name="title_add_count">Thêm người dùng</String>
+    <String name="title_home">Thêm người dùng</String>
+    <String name="title_Top10">Thống kê Top 10</String>
+    <String name="title_revenue">Doanh Thu</String>
+    <String name="button_add_image">Thêm ảnh</String>
+    <String name="button_add_food">Thêm món</String>
+    <String name=""></String>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
