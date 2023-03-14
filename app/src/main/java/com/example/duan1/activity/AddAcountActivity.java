@@ -14,4 +14,9 @@ public class AddAcountActivity extends AppCompatActivity {
         setContentView(R.layout.activity_add_acount);
         //affvasd
     }
+
+    @Override
+    protected void onDestroy() {
+        super.onDestroy();
+    }
 }
