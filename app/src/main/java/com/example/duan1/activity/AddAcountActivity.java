@@ -3,6 +3,7 @@ package com.example.duan1.activity;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+import android.view.MotionEvent;
 
 import com.example.duan1.R;
 
@@ -13,5 +14,10 @@ public class AddAcountActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_add_acount);
         //affvasd
+    }
+
+    @Override
+    public boolean onTouchEvent(MotionEvent event) {
+        return super.onTouchEvent(event);
     }
 }
