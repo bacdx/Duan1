@@ -4,7 +4,11 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.res.Resources;
 import android.os.Bundle;
+
 import android.view.KeyEvent;
+
+import android.view.MotionEvent;
+
 
 import com.example.duan1.R;
 
@@ -33,6 +37,8 @@ public class AddAcountActivity extends AppCompatActivity {
     @Override
     public boolean onKeyDown(int keyCode, KeyEvent event) {
         return super.onKeyDown(keyCode, event);
+    public boolean onTouchEvent(MotionEvent event) {
+        return super.onTouchEvent(event);
     }
 
     @Override

@@ -16,4 +16,11 @@ public class MainActivity extends AppCompatActivity {
 //hjh
     //jhjjhh
     // hieu
+
+
+
+
+//    ahahahahahah
+
+    String ten = "hai hiu ";
 }
